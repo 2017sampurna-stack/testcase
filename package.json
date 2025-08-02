@@ -1,9 +1,9 @@
-{
+{"homepage": "https://2017sampurna-stack.github.io/testcase",
+
   "name": "testcase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2017sampurna-stack.github.io/testcase",
-  "scripts": {
+    "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
